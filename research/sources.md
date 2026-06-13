@@ -18,10 +18,10 @@ I found and why I think their content is worth studying.
 
 - **Platform:** YouTube + LinkedIn + Podcast
 - **LinkedIn:** https://www.linkedin.com/in/jasondbay
-- **YouTube:** https://www.youtube.com/@BlissfulProspecting
-- **Website:** https://blissfulprospecting.com
+- **YouTube:** https://www.youtube.com/channel/UCZKfJ-U8ARc6nGdO_Kg-5sQ/videos
+- **Website:** https://outboundsquad.com
 
-Jason runs Blissful Prospecting and posts weekly on
+Jason runs Outbound Squad (previously Blissful Prospecting) and posts weekly on
 LinkedIn where he takes real cold emails and breaks
 down what works and what does not. His content is
 practical and focused on day-to-day outreach.
@@ -55,7 +55,7 @@ He also co-authored *Cold Calling Sucks (And That's Why It Works)*.
 ## 3. Nick Cegelski
 
 - **Platform:** YouTube + Podcast
-- **LinkedIn:** https://www.linkedin.com/in/nickcegelski
+- **LinkedIn:** https://www.linkedin.com/in/nick-cegelski/
 - **YouTube:** https://www.youtube.com/@30MPC
 
 Nick is Armand's co-founder at 30MPC. While Armand
@@ -90,8 +90,8 @@ stood out for being practical and thought-provoking.
 ## 5. Will Aitken
 
 - **Platform:** LinkedIn + YouTube
-- **LinkedIn:** https://www.linkedin.com/in/will-aitken
-- **YouTube:** https://www.youtube.com/@WillAitken
+- **LinkedIn:** https://www.linkedin.com/in/justwillaitken/
+- **YouTube:** https://www.youtube.com/@justwillaitken
 
 Will focuses on helping salespeople write messages
 that sound natural rather than templated. His content
@@ -126,8 +126,8 @@ measurable outreach results.
 ## 7. Nick Abraham
 
 - **Platform:** YouTube + LinkedIn
-- **LinkedIn:** https://www.linkedin.com/in/nickabraham12
-- **YouTube:** https://www.youtube.com/@nickabraham
+- **LinkedIn:** https://www.linkedin.com/in/nick-abraham/
+- **YouTube:** https://www.youtube.com/@nickabraham12
 
 Nick runs a cold email agency and regularly shares
 content on deliverability, reply rates, and outbound
@@ -144,7 +144,7 @@ recent changes affecting cold email outreach.
 
 - **Platform:** YouTube + Podcast + LinkedIn
 - **LinkedIn:** https://www.linkedin.com/in/collincadmus
-- **YouTube:** https://www.youtube.com/@CollinCadmus
+- **YouTube:** https://www.youtube.com/@collin-cadmus
 
 Collin is a former VP of Sales who has helped build
 outbound teams at multiple SaaS companies.
@@ -159,7 +159,7 @@ hiring SDRs, and scaling pipeline generation.
 ## 9. Morgan J Ingram
 
 - **Platform:** LinkedIn + YouTube
-- **LinkedIn:** https://www.linkedin.com/in/morganjingram
+- **LinkedIn:** https://www.linkedin.com/in/morganjingramamp/
 - **YouTube:** https://www.youtube.com/@MorganJIngram
 
 Morgan trains SDR and BDR teams and shares content
@@ -207,11 +207,9 @@ outreach, and others on building outbound systems.
 
 ---
 
-## What I am collecting next
+## Status
 
-- YouTube transcripts from Jason Bay, Armand Farrokh,
-  Nick Abraham, and Collin Cadmus
-- LinkedIn posts from Josh Braun, Will Aitken,
-  Florin Tatulea, and Morgan J Ingram
-- Podcast episodes from Jack Reamer's Cold Outreach
-  Podcast and 30 Minutes to President's Club
+All research collection complete as of June 2026.
+
+- YouTube transcripts: 6 files collected via Supadata API
+- LinkedIn posts: 3 posts each from Josh Braun, Will Aitken, Jack Reamer, Florin Tatulea, Collin Cadmus
