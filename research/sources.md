@@ -13,6 +13,12 @@ people who are actively doing this work. Here is who
 I found and why I think their content is worth studying.
 
 ---
+---
+## Research Dates
+
+All expert profiles, LinkedIn posts, YouTube transcripts, and supporting materials were collected and reviewed during June 2026.
+
+---
 
 ## 1. Jason Bay
 
