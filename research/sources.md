@@ -13,7 +13,6 @@ people who are actively doing this work. Here is who
 I found and why I think their content is worth studying.
 
 ---
----
 ## Research Dates
 
 All expert profiles, LinkedIn posts, YouTube transcripts, and supporting materials were collected and reviewed during June 2026.
@@ -115,10 +114,11 @@ practitioners such as Jason Bay.
 
 - **Platform:** Podcast + LinkedIn
 - **LinkedIn:** https://www.linkedin.com/in/jackreamer
-- **Podcast:** Cold Outreach Podcast
+- **Podcast:** Cold Email Outreach with Jeremy & Jack
+- **Podcast Link:** https://podcasts.apple.com/us/podcast/cold-email-outreach-with-jeremy-jack/id1272643794
 - **Website:** https://salesbread.com
 
-Jack runs SalesBread and co-hosts the Cold Outreach
+Jack runs SalesBread and co-hosts the Cold Email Outreach
 Podcast. His content frequently includes campaign
 breakdowns, outreach examples, and reply-rate data.
 
