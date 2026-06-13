@@ -7,6 +7,7 @@
 
 ## Post 1
 **Date:** 3 days ago
+**URL:** https://www.linkedin.com/posts/justwillaitken_sellers-spearfish-dont-trawl-ive-activity-7470185646528270336-hfvX
 
 SELLERS!! Spearfish don't trawl.
 
@@ -22,8 +23,9 @@ That sounds like someone credible.
 
 ## Post 2
 **Date:** 3 weeks ago
+**URL:** https://www.linkedin.com/posts/justwillaitken_should-i-personalise-or-automate-my-outbound-activity-7462545229821419521-7Ifh
 
-"Should I personalise or automate my outbound?"
+Should I personalise or automate my outbound?
 
 The healthy middle ground: do the prep long before thinking about the outreach.
 
@@ -37,6 +39,7 @@ That's how teams can automate at scale without abusing obvious mail merges.
 
 ## Post 3
 **Date:** 2 weeks ago
+**URL:** https://www.linkedin.com/posts/justwillaitken_do-you-know-what-your-buyers-get-fired-for-activity-7465060836001193984-UgJY
 
 Do you know what your buyers get fired for?
 
