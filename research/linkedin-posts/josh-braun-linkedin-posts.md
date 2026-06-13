@@ -1,6 +1,6 @@
 # LinkedIn Posts: Josh Braun
 
-**Profile:** https://www.linkedin.com/in/josh-braun-sales
+**Profile:** https://www.linkedin.com/in/joshbraun
 **Collected:** June 2026
 
 ---
